@@ -1,7 +1,7 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/João/João/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7E967&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)!;Olá,+Meu+nome+é+João;Tenho+20+anos!+:%29)](https://git.io/typing-svg)
 
 
 ## My Skills
